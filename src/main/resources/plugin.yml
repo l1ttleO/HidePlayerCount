@@ -1,0 +1,7 @@
+name: HidePlayerCount
+version: ${project.version}
+main: ru.l1ttleO.hideplayercount.HidePlayerCount
+api-version: 1.16
+authors: [ l1ttleO ]
+description: Hides your current and max player counts from the server list
+website: https://github.com/l1ttleO/HidePlayerCount
