@@ -13,7 +13,8 @@ public final class HidePlayerCount extends JavaPlugin implements Listener {
     }
 
     @Override
-    public void onDisable() {}
+    public void onDisable() {
+    }
 
     @EventHandler
     public void onServerListPing(PaperServerListPingEvent event) {
