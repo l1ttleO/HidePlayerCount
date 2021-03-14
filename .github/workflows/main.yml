@@ -1,4 +1,4 @@
-name: Build BanSystem
+name: Build HidePlayerCount
 
 on:
   push:
@@ -32,5 +32,5 @@ jobs:
     - name: Copy artifacts
       uses: actions/upload-artifact@master
       with:
-        name: BanSystem
-        path: target/BanSystem*.jar
+        name: HidePlayerCount
+        path: target/HidePlayerCount*.jar
